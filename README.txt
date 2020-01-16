@@ -3,7 +3,7 @@ A project done during the Cadet program in 42 Silicon Valley that reads in a tex
 
 Differences from the PDF:
 ---
--Put all of the files in another folder called "PUSH_fillt"
+-Put all of the files in another folder called "PUSH_fillit"
 
 Project done by:
 ---
